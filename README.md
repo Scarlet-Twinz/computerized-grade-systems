@@ -25,7 +25,7 @@ These are proposed directions, not completed features.
 
 **Anthony Emmanuella Mmasinachi**
 
-GitHub: [@Scarlet-Twinz](https://github.com/Scarlet-Twinz)
+**GitHub Repository:** https://github.com/Scarlet-Twinz/computerized-grade-systems
 
 ## Status
 
