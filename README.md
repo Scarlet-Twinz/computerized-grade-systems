@@ -30,3 +30,9 @@ These are proposed directions, not completed features.
 ## Status
 
 **Placeholder / inactive** — retained for project history until it is rebuilt or removed.
+
+## Project Links
+
+- **Repository:** https://github.com/Scarlet-Twinz/computerized-grade-systems
+- **Author:** Anthony Emmanuella Mmasinachi
+- **GitHub:** https://github.com/Scarlet-Twinz
