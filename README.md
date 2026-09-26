@@ -1,4 +1,4 @@
-#  Computerized Grade Systems
+# Computerized Grade Systems
 
 A repository for an academic grade-system concept. The current repository does not contain the multi-service platform described by the previous README, so this documentation has been reduced to what can be responsibly claimed from the repository itself.
 
