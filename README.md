@@ -21,6 +21,21 @@ If the project is rebuilt, a focused version could include:
 
 These are proposed directions, not completed features.
 
+## Run Locally
+
+Clone the repository and open the README/project files locally:
+
+```bash
+git clone https://github.com/Scarlet-Twinz/computerized-grade-systems.git
+cd computerized-grade-systems
+```
+
+The current repository is a placeholder/inactive project and does not require package installation.
+
+## License
+
+MIT
+
 ## Author
 
 **Anthony Emmanuella Mmasinachi**
