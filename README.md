@@ -32,22 +32,9 @@ cd computerized-grade-systems
 
 The current repository is a placeholder/inactive project and does not require package installation.
 
+
 ## License
 
-MIT
+MIT License.
 
-## Author
-
-**Anthony Emmanuella Mmasinachi**
-
-**GitHub Repository:** https://github.com/Scarlet-Twinz/computerized-grade-systems
-
-## Status
-
-**Placeholder / inactive** — retained for project history until it is rebuilt or removed.
-
-## Project Links
-
-- **Repository:** https://github.com/Scarlet-Twinz/computerized-grade-systems
-- **Author:** Anthony Emmanuella Mmasinachi
-- **GitHub:** https://github.com/Scarlet-Twinz
+See [LICENSE](LICENSE) for the full license text.
