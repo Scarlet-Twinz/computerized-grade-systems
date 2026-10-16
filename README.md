@@ -1,40 +1,35 @@
 # Computerized Grade Systems
 
-A repository for an academic grade-system concept. The current repository does not contain the multi-service platform described by the previous README, so this documentation has been reduced to what can be responsibly claimed from the repository itself.
+An inactive academic grade-system concept repository.
 
-## Current State
+## Current status
 
-This repository is currently a **placeholder / inactive project** rather than a verified enterprise-grade academic platform.
+This repository does not currently contain a complete grade-management application. No production deployment, multi-service architecture, or enterprise capability is claimed.
 
-The previous documentation claimed multiple frontends, backend services, databases, analytics engines, integrations, cloud deployments, performance benchmarks, and large-scale production usage. Those claims are not supported by the current repository contents and have therefore been removed.
+## Possible future scope
 
-## Possible Future Scope
+A future implementation could include:
 
-If the project is rebuilt, a focused version could include:
-
-- Student and course management
+- Student and course records
 - Grade entry and validation
-- GPA/CGPA calculation
+- GPA and CGPA calculation
 - Result and transcript views
-- Role-based access for students, faculty, and administrators
-- Basic academic reporting
+- Role-based student, faculty, and administrator access
+- Academic reporting
 
-These are proposed directions, not completed features.
+These are potential features, not implemented functionality.
 
-## Run Locally
+## Run locally
 
-Clone the repository and open the README/project files locally:
+Clone the repository and inspect the available project files:
 
 ```bash
 git clone https://github.com/Scarlet-Twinz/computerized-grade-systems.git
 cd computerized-grade-systems
 ```
 
-The current repository is a placeholder/inactive project and does not require package installation.
-
+The current repository has no application setup or package installation requirements.
 
 ## License
 
-MIT License.
-
-See [LICENSE](LICENSE) for the full license text.
+MIT License. See [LICENSE](LICENSE).
